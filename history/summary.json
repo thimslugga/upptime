@@ -4,19 +4,19 @@
     "url": "https://adamkaminski.com/",
     "icon": "https://favicons.githubusercontent.com/adamkaminski.com",
     "slug": "adamkaminski-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 114,
-    "timeWeek": 196,
-    "timeMonth": 182,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 174,
+    "timeDay": 146,
+    "timeWeek": 197,
+    "timeMonth": 183,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 8
     }
   }
 ]
