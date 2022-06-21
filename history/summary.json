@@ -4,7 +4,7 @@
     "url": "https://adamkaminski.com/",
     "icon": "https://favicons.githubusercontent.com/adamkaminski.com",
     "slug": "adamkaminski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 163,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-03-20": 15
     }
   }
