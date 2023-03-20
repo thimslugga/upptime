@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 167,
-    "timeDay": 186,
-    "timeWeek": 169,
-    "timeMonth": 163,
+    "timeDay": 76,
+    "timeWeek": 157,
+    "timeMonth": 162,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2022-06-30": 67,
-      "2022-06-21": 17,
-      "2022-03-20": 15
+      "2022-06-21": 17
     }
   }
 ]
