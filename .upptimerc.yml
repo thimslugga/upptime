@@ -1,33 +1,30 @@
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
 owner: thimslugga # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: thimslugga
-
 sites:
   - name: adamkaminski.com
     url: https://adamkaminski.com/
     #method: GET
   #- name: Hacker News
   #  url: https://news.ycombinator.com
-  
-assignees: # Users to assign downtime issues (optional)
-  - thimslugga
-
 status-website:
-  theme: dark
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
+  #themeUrl: https://example.com/my-custom-theme.css
+  cname: thimslugga.adamkaminski.com
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   robotsText: "User-agent: * \n Disallow: /"
   name: upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from [GitHub repository](https://github.com/thimslugga/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime** monitor and status page, powered entirely by GitHub."
+  introMessage: This status page uses **real-time** data from this [GitHub repository](https://github.com/thimslugga/upptime). This solution relies on just GitHub Actions, Issues and Pages.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees: # Users to assign downtime issues (optional)
+  - thimslugga
