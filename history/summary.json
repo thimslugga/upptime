@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adamkaminski.com.ico",
     "slug": "adamkaminski-com",
     "status": "down",
-    "uptime": "60.12%",
+    "uptime": "60.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 90,
-    "timeWeek": 102,
+    "timeDay": 72,
+    "timeWeek": 101,
     "timeMonth": 113,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-08-24": 22,
+      "2024-08-25": 25,
+      "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -379,8 +380,7 @@
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
-      "2023-08-27": 1440,
-      "2023-08-26": 1440
+      "2023-08-27": 1440
     }
   }
 ]
