@@ -4,7 +4,7 @@
     "url": "https://adamkaminski.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adamkaminski.com.ico",
     "slug": "adamkaminski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "51.54%",
     "uptimeDay": "14.67%",
     "uptimeWeek": "5.79%",
@@ -16,7 +16,7 @@
     "timeMonth": 104,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-02-01": 897,
+      "2025-02-01": 953,
       "2025-01-31": 1162,
       "2025-01-30": 1361,
       "2025-01-29": 1393,
