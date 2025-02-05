@@ -4,14 +4,14 @@
     "url": "https://adamkaminski.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adamkaminski.com.ico",
     "slug": "adamkaminski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "29.18%",
-    "uptimeWeek": "44.76%",
-    "uptimeMonth": "87.29%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "29.17%",
+    "uptimeWeek": "45.11%",
+    "uptimeMonth": "87.37%",
+    "uptimeYear": "98.95%",
     "time": 101,
-    "timeDay": 110,
+    "timeDay": 111,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 103,
@@ -21,7 +21,7 @@
       "2025-02-03": 1189,
       "2025-02-02": 1243,
       "2025-02-01": 1211,
-      "2025-01-31": 384
+      "2025-01-31": 348
     }
   }
 ]
